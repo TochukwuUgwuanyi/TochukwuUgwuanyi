@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TochukwuUgwuanyi
 - 👀 I’m interested in Cloud DevOps, Cloud Developer and any cloud reated soultions
-- 🌱 I’m currently learning Software Engineering with ALX-T Cloud Developer and Associate Cloud Enginer with Google Africa Developer Scholarship Program
+- 🌱 I’m currently learning Software Engineering with ALX-T Software Engineering and Associate Cloud Enginer with Google Africa Developer Scholarship Program
 - 💞️ I’m looking to collaborate on Cloud Development
 - 📫 How to reach me tochukwuugwuanyi@gmail.com
 
